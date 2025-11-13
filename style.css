@@ -1,0 +1,481 @@
+.body {
+  background-color: #f5f8ff;
+}
+.service_help h1 {
+  text-align: center;
+  color: #0f1b58;
+  font-size: 60px;
+}
+
+.service_help p {
+  text-align: center;
+  color: #0f1b58;
+  font-size: 30px;
+}
+.list {
+  background-color: #f5f8ff;
+}
+.card1 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card1 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card1 p {
+  color: blue;
+  text-align: center;
+}
+
+.card2 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+
+}
+.card2 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card2 p {
+  color: blue;
+  text-align: center;
+}
+
+.card3 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card3 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card3 p {
+  color: blue;
+  text-align: center;
+}
+
+
+.card4 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card4 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card4 p {
+  color: blue;
+  text-align: center;
+}
+
+.card5 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card5 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card5 p {
+  color: blue;
+  text-align: center;
+}
+
+.card6 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card6 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card6 p {
+  color: blue;
+  text-align: center;
+}
+
+.card7  {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card7 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card7 p {
+  color: blue;
+  text-align: center;
+}
+.card8 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card8 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card8 p, .card8 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card9 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card9 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card9 p, .card9 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card10 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card10 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card10 p, .card10 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card11 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card11 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card11 p, .card11 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card12 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card12 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card12 p, .card12 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card13 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card13 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card13 p, .card13 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card14 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card14 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card14 p, .card14 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card15 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card15 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card15 p, .card15 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card16 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card16 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card16 p, .card16 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card17 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card17 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card17 p, .card17 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card18 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card18 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card18 p, .card18 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card19 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card19 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card19 p, .card19 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card20 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card20 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card20 p, .card20 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card21 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card21 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card21 p, .card21 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card22 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card22 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card22 p, .card22 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card23 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card23 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card23 p, .card23 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card24 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card24 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card24 p, .card24 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card25 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card25 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card25 p, .card25 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card26 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card26 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card26 p, .card26 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card27 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card27 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card27 p, .card27 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card28 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card28 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card28 p, .card28 h5 {
+  color: blue;
+  text-align: center;
+}
+
+.card29 {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+.card29 img {
+  height: 280px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card29 p, .card29 h5 {
+  color: blue;
+  text-align: center;
+}
